@@ -1,2 +1,2 @@
-# lrichar-0.github.io
+# lee-richards.com
 my website
